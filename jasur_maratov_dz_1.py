@@ -22,5 +22,5 @@ def num_transtalen(num_world):
 
     return None
 
-resault = num_transtalen('one')
+resault = num_transtalen('One')
 print(resault)
